@@ -1,0 +1,623 @@
+ /********************************************************/
+/* Max-Width 1200PX     *********************************/
+/********************************************************/
+@media (max-width: 1200px) {
+.menu-section ul li a {
+    padding: 8px 30px;
+  }
+	.news-letter-message {
+	  width: 45%;
+	}
+	.single-post-item h2 {
+    font-size: 24px;
+  }
+
+  /* POST FULL CSS START */
+	.item-section {
+    margin: 17px;
+  }
+  .ml-0 {
+    margin-left: 0;
+	}
+	.mr-0 {
+    margin-right: 0;
+	}
+	.item-section span {
+    font-size: 15px;
+  }
+}
+
+
+/********************************************************/
+/* Min-Width 993PX     **********************************/
+/********************************************************/
+@media (min-width: 992px) {
+
+}
+
+
+
+/********************************************************/
+/* Max-Width 991PX     **********************************/
+/********************************************************/
+@media (max-width: 991px) {
+	p {
+    font-size: 15px;
+	}
+	.header {
+    margin: 50px 20px;
+	}
+	.menu-section ul li a {
+    padding: 8px 10px;
+	}
+	.post-section-main, .single-post-loadmore {
+    width: 80%;
+	}
+	.single-post-item h2 {
+    font-size: 20px;
+  }
+  .single-post-item {
+  	width: 93%;
+    margin-bottom: 50px;
+	}
+	.news-letter-message {
+    width: 50%;
+  }
+  .news-letter-message h2{
+    font-size: 22px;
+  }
+  .load-btn {
+    font-size: 20px;
+  }
+  .footer {
+    width: 90%;
+	}
+
+	/* POST FULL CSS START */
+	.post-full-img-section {
+    width: 80%;
+	}
+	.post-article-section p {
+    font-size: 17px;
+  }
+	.you-may-item-full .item-section {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 35px;
+  }
+  .you-may-item-full {
+    padding-bottom: 30px;
+	}
+
+	/* POST HALF */
+	.post-section-left,
+	.post-section-main.main,
+	.post-full-img-section.main-3 {
+    width: 100%;
+  }
+  .post-article-section.main-2,
+  .img-part.part-1{
+  	width: 95%;
+  	margin: 0 auto;
+  }
+  .post-text-section p.txt-1,
+  .post-text-section p.txt-2 {
+    margin: 10px 10px 0px 10px;
+    font-size: 16px;
+	}
+
+	.post-section-right {
+    width: 100%;
+	}
+	.sidebar {
+    width: 95%;
+    float: initial;
+    margin: 0 auto;
+	}
+	.full-post-area-section {
+    margin-bottom: 35px;
+	}
+	.post-text-section.txt-1 {
+    margin-bottom: 30px;
+	}
+}
+
+
+/********************************************************/
+/* Max-Width 767PX     **********************************/
+/********************************************************/
+@media (max-width: 767px) {
+	p {
+    font-size: 16px;
+	}
+	.header {
+    margin: 50px 20px;
+	}
+	.menu-section ul li a {
+    padding: 8px 10px;
+	}
+	.post-section-main, .single-post-loadmore {
+    width: 80%;
+	}
+	.single-post-item h2 {
+    font-size: 20px;
+  }
+  .single-post-item {
+  	width: 93%;
+    margin-bottom: 50px;
+	}
+	.news-letter-message {
+    width: 50%;
+  }
+  .news-letter-message h2{
+    font-size: 22px;
+  }
+  .share-link {
+    text-align: center;
+  }
+  .load-btn {
+    font-size: 20px;
+  }
+  .footer {
+    width: 90%;
+	}
+
+
+
+	/* POST FULL CSS START */
+	.post-full-img-section {
+    width: 80%;
+	}
+	.you-may-item-full .item-section {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 35px;
+  }
+  .you-may-item-full {
+    padding-bottom: 30px;
+	}
+
+
+	/* POST HALF */
+	.post-section-left,
+	.post-section-main.main,
+	.post-full-img-section.main-3 {
+    width: 100%;
+  }
+  .post-article-section.main-2,
+  .img-part.part-1{
+  	width: 95%;
+  	margin: 0 auto;
+  }
+  .post-text-section p.txt-1,
+  .post-text-section p.txt-2 {
+    margin: 10px 10px 0px 10px;
+    font-size: 16px;
+	}
+
+	.post-section-right {
+    width: 100%;
+	}
+	.sidebar {
+    width: 95%;
+    float: initial;
+    margin: 0 auto;
+	}
+	.full-post-area-section {
+    margin-bottom: 35px;
+	}
+	.post-text-section.txt-1 {
+    margin-bottom: 30px;
+	}
+}
+
+
+
+/********************************************************/
+/* Max-Width 576PX     **********************************/
+/********************************************************/
+@media (max-width: 576px) {
+	span{
+		font-size: 15px;
+	}
+	.header{
+		display: block;
+		margin: 20px 0;
+		text-align: center;
+	}
+	.logo,.menu-section,
+	.menu-section ul,
+	.menu-section ul li{
+		width: 100%!important;
+	}
+	.menu-section ul{
+		text-align: center;
+    margin-top: 15px;
+	}
+	.menu-section ul li {
+    display: block;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0px;
+	}
+	.menu-section ul li a {
+    font-size: 15px;
+    padding: 0px;
+  }
+  .slider {
+    margin-bottom: 30px;
+	}
+
+	/* Header start */
+	.post-article-section h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+	}
+	.post-article-section p {
+    font-size: 14px;
+  }
+	.post-article-section input {
+	    font-size: 14px;
+	    margin-top: 0px;
+	}
+	.post-article-section input::placeholder {
+	    font-size: 14px;
+	}
+  /* single post */
+	.single-post-main {
+	    margin-top: 35px;
+	    display: block;
+	}
+	.post-w50,
+	.single-post-item .item,
+	.single-post-item{
+		width: 100%;
+	}
+	.single-post-item {
+    margin-bottom: 35px;
+	}
+	.single-post-item.float-right,
+	.single-post-item .item.float-right {
+    float: inherit;
+	}
+	.single-post-item span {
+    margin-top: 15px;
+	}
+	.single-post-item h2 {
+    font-size: 24px;
+	}
+	.single-post-item p {
+    font-size: 14px;
+	}
+
+
+	.news-letter-main {
+    padding: 30px;
+  }
+	.news-letter-message {
+    width: 100%;
+  }
+  .news-letter-message h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  .news-letter-message input,
+  .news-letter-message input::placeholder {
+    font-size: 15px;
+  }
+  .news-letter:after {
+    bottom: 8px;
+  }
+
+
+  .single-post-loadmore {
+    margin-top: 35px;
+	}
+	.post-section-main, .single-post-loadmore {
+    margin: 0 auto;
+    width: 95%;
+  }
+	.single-post {
+    display: block;
+	}
+	.load-more {
+    margin: 15% 0;
+	}
+	.load-btn {
+    font-size: 17px;
+    padding: 10px 35px;
+	}
+
+	.footer {
+    width: 100%;
+  }
+
+  /* POST FULL CSS START */
+  .post-full-img-section {
+    width: 93%;
+	}
+	.post-text-section p {
+    font-size: 18px;
+	}
+	.share-link {
+    text-align: center;
+  }
+  .you-may-like-section, .comment-main {
+    width: 93%;
+	}
+	.you-may-like-section span {
+	  text-align: center;
+	}
+	.item-section {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 35px;
+	}
+	.you-may-item-full {
+    padding-bottom: 0px;
+	}
+	.right h3 {
+		margin-top: 4px;
+		margin-bottom: 10px;
+	}
+	.right p {
+    font-size: 15px;
+    margin-top: 0;
+	}
+	.right p {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .connected {
+    text-align: center;
+	}
+	.connected {
+    text-align: center;
+	}
+	.connected span {
+    position: relative;
+    top: 3px;
+    right: 0px;
+	}
+	.connected .social-icon a {
+    margin: 14px;
+	}
+
+	/* POST HALF */
+	.post-section-left,
+	.post-section-main.main,
+	.post-full-img-section.main-3 {
+    width: 100%;
+  }
+  .post-article-section.main-2,
+  .img-part.part-1{
+  	width: 95%;
+  	margin: 0 auto;
+  }
+  .post-text-section p.txt-1,
+  .post-text-section p.txt-2 {
+    margin: 10px 10px 0px 10px;
+    font-size: 16px;
+	}
+
+	.post-section-right {
+    width: 100%;
+	}
+	.sidebar {
+    width: 95%;
+    float: initial;
+    margin: 0 auto;
+	}
+	.full-post-area-section {
+    margin-bottom: 35px;
+	}
+	.post-text-section.txt-1 {
+    margin-bottom: 30px;
+	}
+}
+
+
+
+/********************************************************/
+/* Max-Width 320PX     **********************************/
+/********************************************************/
+@media (max-width: 320px) {
+	span{
+		font-size: 15px;
+	}
+	.header{
+		display: block;
+		margin: 20px 0;
+		text-align: center;
+	}
+	.logo,.menu-section,
+	.menu-section ul,
+	.menu-section ul li{
+		width: 100%!important;
+	}
+	.menu-section ul{
+		text-align: center;
+    margin-top: 15px;
+	}
+	.menu-section ul li {
+    display: block;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0px;
+	}
+	.menu-section ul li a {
+    font-size: 15px;
+    padding: 0px;
+  }
+  .slider {
+    margin-bottom: 30px;
+	}
+
+	/* Header start */
+	.post-article-section h1 {
+    font-size: 22px;
+    margin-bottom: 20px;
+	}
+	.post-article-section p {
+    font-size: 14px;
+  }
+	.post-article-section input {
+	    font-size: 14px;
+	    margin-top: 0px;
+	}
+	.post-article-section input::placeholder {
+	    font-size: 14px;
+	}
+  /* single post */
+	.single-post-main {
+	    margin-top: 35px;
+	    display: block;
+	}
+	.post-w50,
+	.single-post-item .item,
+	.single-post-item{
+		width: 100%;
+	}
+	.single-post-item {
+    margin-bottom: 35px;
+	}
+	.single-post-item.float-right,
+	.single-post-item .item.float-right {
+    float: inherit;
+	}
+	.single-post-item span {
+    margin-top: 15px;
+	}
+	.single-post-item h2 {
+    font-size: 22px;
+	}
+	.single-post-item p {
+    font-size: 14px;
+	}
+
+
+	.news-letter-main {
+    padding: 30px;
+  }
+	.news-letter-message {
+    width: 100%;
+  }
+  .news-letter-message h2 {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  .news-letter-message input,
+  .news-letter-message input::placeholder {
+    font-size: 15px;
+  }
+  .news-letter:after {
+    bottom: 8px;
+  }
+
+
+  .single-post-loadmore {
+    margin-top: 35px;
+	}
+	.post-section-main, .single-post-loadmore {
+    margin: 0 auto;
+    width: 95%;
+  }
+	.single-post {
+    display: block;
+	}
+	.load-more {
+    margin: 15% 0;
+	}
+	.load-btn {
+    font-size: 17px;
+    padding: 10px 35px;
+	}
+
+	.footer {
+    width: 100%;
+  }
+
+
+  /* POST FULL CSS START */
+  .post-full-img-section {
+    width: 93%;
+	}
+	.post-text-section p {
+    font-size: 18px;
+	}
+	.share-link {
+    text-align: center;
+  }
+  .you-may-like-section, .comment-main {
+    width: 93%;
+	}
+	.you-may-like-section span {
+	  text-align: center;
+	}
+	.item-section {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 35px;
+	}
+	.you-may-item-full {
+    padding-bottom: 0px;
+	}
+	.right h3 {
+		margin-top: 4px;
+		margin-bottom: 10px;
+	}
+	.right p {
+    font-size: 15px;
+    margin-top: 0;
+	}
+	.right p {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .connected {
+    text-align: center;
+	}
+	.connected {
+    text-align: center;
+	}
+	.connected span {
+    position: relative;
+    top: 3px;
+    right: 0px;
+	}
+	.connected .social-icon a {
+    margin: 14px;
+	}
+
+
+	/* POST HALF */
+	.post-section-left,
+	.post-section-main.main,
+	.post-full-img-section.main-3 {
+    width: 100%;
+  }
+  .post-article-section.main-2,
+  .img-part.part-1{
+  	width: 95%;
+  	margin: 0 auto;
+  }
+  .post-text-section p.txt-1,
+  .post-text-section p.txt-2 {
+    margin: 10px 10px 0px 10px;
+    font-size: 16px;
+	}
+
+	.post-section-right {
+    width: 100%;
+	}
+	.sidebar {
+    width: 95%;
+    float: initial;
+    margin: 0 auto;
+	}
+	.full-post-area-section {
+    margin-bottom: 35px;
+	}
+	.post-text-section.txt-1 {
+    margin-bottom: 30px;
+	}
+}
+

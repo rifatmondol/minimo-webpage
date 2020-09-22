@@ -1,0 +1,147 @@
+.post-section-main{
+  margin-bottom: 65px;
+}
+
+
+/* post full section start */
+.post-full-img-section{
+  width: 70%;
+  margin: 0 auto;
+}
+.img-part{
+  margin-bottom: 60px;
+}
+.img-part img{
+  width: 100%;
+}
+.post-text-section p{
+  font-size: 19px;
+}
+.post-text-section p.txt-1{
+  margin: 0px 10px 0px 10px;
+  font-size: 18px;
+}
+
+.share-link{
+  text-align: right;
+  margin-bottom: 75px;
+}
+.share-link span {
+  font-size: 17px;
+  color: #b4ad9e;
+  position: relative;
+  top: 3px;
+}
+.share-link a{
+  margin: 10px;
+}
+.share-link a.pinterest{
+  margin-right: 0px;
+}
+.post-text-section{
+  margin-bottom: 120px;
+}
+
+/* you may like main css */
+.you-may-like-main{
+  background: #f2f2f2;
+}
+.you-may-like-section,
+.comment-main{
+  width: 70%;
+  margin: 0 auto;
+}
+.you-may-like-section span {
+    color: #b4ad9e;
+    font-size: 19px;
+    display: block;
+    padding-top: 65px;
+    font-family: 'PlayfairDisplay';
+}
+.you-may-item-full{
+  overflow: hidden;
+  margin-top: 40px;
+  padding-bottom: 90px;
+}
+.item-section {
+    width: 30.13%;
+    float: left;
+    margin: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.ml-0{
+  margin-left: 0;
+}
+.mr-0{
+  margin-right: 0;
+}
+.item-section img{
+  width: 100%;
+}
+.item-section span {
+    color: #626262;
+    font-size: 18px;
+    font-family: 'PlayfairDisplay';
+    padding-top: 20px;
+}
+
+/* Comment main */
+.comment-main{
+  margin-top: 60px;
+  margin-bottom: 60px;  
+}
+.comment-section {
+  margin-top: 45px;
+}
+.comment-main span {
+  color: #b4ad9e;
+}
+.comment-item{
+  overflow: hidden;
+  margin-bottom: 60px;
+}
+.left{
+  width: 15%;
+  float: left;
+}
+.left img{
+  width: 75%;
+}
+.right{
+  width: 85%;
+  float: right;
+}
+.right h3{
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 19px;
+  color: #626262;
+}
+.right p{
+  font-size: 19px;
+  margin-bottom: 25px;
+  color: #626262;
+}
+.right input {
+    width: 99%;
+    margin: 0;
+    text-indent: 15px;
+    padding: 15px 0px 55px 0px;
+    border: 1px solid #c7c5c5;
+    border-radius: 10px;
+}
+.right input:focus{
+  outline: none;
+}
+.connected{
+  text-align: right;
+}
+.connected span{
+  position: relative;
+  top: 5px;
+  right: 25px;
+}
+.social-icon a.fr-0{
+  margin-right: 0;
+}

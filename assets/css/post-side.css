@@ -1,0 +1,72 @@
+.full-post-area-section{
+	overflow: hidden;
+}
+
+.post-section-left{
+	width: 65%;
+	float: left;
+}
+.post-section-right{
+	width: 35%;
+	float: right;
+}
+.sidebar{
+	width: 90%;
+  float: right;
+}
+.first-img img{
+	width: 100%;
+}
+.post-section-main, .post-full-img-section {
+    width: 95%;
+    margin: 0;
+    float: right;
+}
+.post-right-header-discussion{
+	margin-top: 30px;
+}
+.post-right-header-discussion h2{
+	color: #626262;
+  font-size: 32px;
+  font-weight: 500;
+}
+.post-right-header-discussion p{
+	color: #626262;
+}
+.post-article-section span.sed{
+	font-weight: 600;
+	font-family: 'PlayfairDisplay';
+	font-size: 19px;
+	color: #626262;
+	text-transform: lowercase;
+}
+.social-section{
+	margin-bottom: 70px;
+}
+.social-section a{
+	margin: 10px;
+}
+.social-section a.fl{
+	margin-left: 0px;
+}
+
+.top-post-section span {
+    color: #b4ad9e;
+    margin-bottom: 35px;
+    display: block;
+}
+.top-post-section ul {
+	padding: 0;
+	margin-bottom: 55px;
+}
+.top-post-section ul li {
+	line-height: 2;
+	margin-bottom: 30px;
+	color: #626262;
+	font-size: 22px;
+	margin-left: 20px;
+}
+.top-post-section ul li span{
+	font-size: 16px;
+	margin: 0;
+}
